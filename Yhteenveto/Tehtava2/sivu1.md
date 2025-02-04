@@ -1,4 +1,4 @@
 laitan vielö kuvan
 
-![lapset](tehtava2/lapset.jpg)
+![lapset](Tehtava2/lapset.jpg)
 
